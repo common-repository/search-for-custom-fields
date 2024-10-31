@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Search For Custom Fields\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 18:38+0000\n"
+"PO-Revision-Date: 2023-07-19 20:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: searchforcustomfields\n"
+
+#: sfcf.php:105
+msgid "(optional) Activate the widget"
+msgstr "(facultatif) Activer le widget"
+
+#: sfcf.php:146
+msgid "Add"
+msgstr "Ajouter"
+
+#: sfcf.php:211 sfcf_widget.php:36
+msgid "All"
+msgstr "Tout"
+
+#: sfcf.php:251 sfcf_widget.php:79
+msgid "Alphabetical order (A..Z)"
+msgstr "Ordre alphabétique (A.. Z)"
+
+#: sfcf.php:125
+msgid "Border color"
+msgstr "Couleur de la bordure"
+
+#: sfcf.php:126
+msgid "Border size"
+msgstr "Taille de la bordure"
+
+#: sfcf.php:142
+msgid ""
+"Choose the \"Number\" type to allow your visitors to search >=, <= ou = to a "
+"number."
+msgstr ""
+"Choisissez le type « Nombre » pour permettre à vos visiteurs de rechercher "
+">=, <= ou = à un nombre."
+
+#: sfcf.php:133
+msgid "Create a new custom fields"
+msgstr "Créer un nouveau champ personnalisé"
+
+#: sfcf.php:104
+msgid "Create the fields on this page"
+msgstr "Créer les champs sur cette page"
+
+#. Description of the plugin
+msgid ""
+"Create your own fields for your posts / pages and propose a search based on "
+"these fields to your visitors."
+msgstr ""
+"Créez vos propres champs pour vos articles / pages et proposez une recherche "
+"basée sur ces champs à vos visiteurs."
+
+#: sfcf.php:156
+msgid "Delete the selected fields"
+msgstr "Supprimer les champs sélectionnés"
+
+#: sfcf.php:106
+msgid ""
+"Fill in the fields in your posts / pages (Please add manually for exisiting "
+"contents)"
+msgstr ""
+"Remplissez les champs de vos articles / pages (veuillez ajouter manuellement "
+"pour les contenus existants)"
+
+#: sfcf.php:143
+msgid ""
+"For example: To display all the posts whose price field is \"<=\" to value "
+"\"50$\"."
+msgstr ""
+"Par exemple : Pour afficher tous les articles dont le champ prix est « <= » "
+"à la valeur « 50$ »."
+
+#: sfcf.php:103
+msgid "Getting Started"
+msgstr "Pour commencer"
+
+#. Author URI of the plugin
+msgid "https://aaclesoft.fr"
+msgstr "https://aaclesoft.fr"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/search-for-custom-fields"
+msgstr "https://wordpress.org/plugins/search-for-custom-fields"
+
+#: sfcf.php:109
+msgid ""
+"IMPORTANT : To view the fields when creating your posts or pages, consider "
+"displaying \"custom fields\" in \"Screen Options\" (At the top of the page "
+"when you write your post or page)"
+msgstr ""
+"IMPORTANT : Pour afficher les champs lors de la création de vos articles ou "
+"pages, pensez à afficher les « champs personnalisés » dans « Options "
+"d’écran » (en haut de la page lorsque vous écrivez votre article ou votre "
+"page)"
+
+#: sfcf.php:108
+msgid ""
+"Insert [sfcf_search_shortcode] where you want to include the search form. To "
+"choose the size of the form you can use the size parameter as in these "
+"examples: [sfcf_search_shortcode size=\"50%\"] or [sfcf_search_shortcode "
+"size=\"250px\"]"
+msgstr ""
+"Insérez [sfcf_search_shortcode] à l’endroit où vous souhaitez inclure le "
+"formulaire de recherche. Pour choisir la taille du formulaire, vous pouvez "
+"utiliser le paramètre size comme dans ces exemples : [sfcf_search_shortcode "
+"size=\"50%\"] ou [sfcf_search_shortcode size=\"250px\"]"
+
+#: sfcf.php:107
+msgid "Insert [sfcf_shortcode] where you want to display the fields"
+msgstr ""
+"Insérez [sfcf_shortcode] à l’endroit où vous souhaitez afficher les champs"
+
+#: sfcf.php:252 sfcf_widget.php:80
+msgid "Inverted alphabetical order (Z..A)"
+msgstr "Ordre alphabétique inversé (Z.. A)"
+
+#: sfcf.php:149
+msgid "List of fields"
+msgstr "Liste des champs"
+
+#: sfcf.php:142
+msgid "Memo:"
+msgstr "Attention:"
+
+#: sfcf.php:137
+msgid "Name:"
+msgstr "Nom:"
+
+#: sfcf.php:249 sfcf_widget.php:77
+msgid "New to Old"
+msgstr "Du plus récent au plus ancien"
+
+#: sfcf.php:393
+msgid "Next page"
+msgstr "Page suivante"
+
+#: sfcf.php:347
+msgid "No results for this search, please try again with fewer criteria."
+msgstr ""
+"Aucun résultat pour cette recherche, veuillez réessayer avec moins de "
+"critères."
+
+#: sfcf.php:140
+msgid "Number"
+msgstr "Nombre"
+
+#: sfcf.php:250 sfcf_widget.php:78
+msgid "Old to New"
+msgstr "Du plus ancien au plus récent"
+
+#: sfcf.php:112
+msgid "Options"
+msgstr "Options"
+
+#: sfcf.php:370
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: sfcf.php:255 sfcf_widget.php:86
+msgid "Results by page :"
+msgstr "Résultats par page :"
+
+#: sfcf.php:128
+msgid "Save"
+msgstr "Enregister"
+
+#: sfcf.php:265 sfcf_widget.php:97
+msgid "Search"
+msgstr "Rechercher"
+
+#. Name of the plugin
+msgid "Search For Custom Fields"
+msgstr "Rechercher via des champs personnalisés"
+
+#: sfcf.php:331
+msgid "Search results"
+msgstr "Résultats de la recherche"
+
+#: sfcf.php:124
+msgid "Show empty fields"
+msgstr "Afficher les champs vides"
+
+#: sfcf.php:121
+msgid "Show fields in pages when calling shortcode [sfcf_shortcode]"
+msgstr ""
+"Afficher les champs dans les pages lors de l’appel au code court "
+"[sfcf_shortcode]"
+
+#: sfcf.php:118
+msgid "Show fields in posts when calling shortcode [sfcf_shortcode]"
+msgstr ""
+"Afficher les champs dans les articles lors de l’appel au code court "
+"[sfcf_shortcode]"
+
+#: sfcf.php:247 sfcf_widget.php:75
+msgid "Sort by :"
+msgstr "Trier par : "
+
+#. Author of the plugin
+msgid "Stéphane Lion"
+msgstr "Stéphane Lion"
+
+#: sfcf.php:140
+msgid "Text"
+msgstr "Texte"
+
+#: sfcf.php:144
+msgid ""
+"The comparison does not work if you place letters in front of the digits, "
+"for example \"$50\"."
+msgstr ""
+"La comparaison ne fonctionne pas si vous placez des lettres devant les "
+"chiffres, par exemple « $50 »."
+
+#: sfcf.php:139
+msgid "Type:"
+msgstr "Type :"
